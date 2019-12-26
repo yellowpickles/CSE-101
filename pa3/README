@@ -1,0 +1,20 @@
+Andy He
+ahe206
+pa3
+
+LIST OF FILES SUBMITTED:
+Arithmetic.c - top level client for the project
+BigInteger.c - BigInteger implementation file
+BigInteger.h - BigInteger header file
+BigIntegerTest.c - my test for the BigInteger ADT
+List.c - List implementation file
+List.h - List header file
+ListTest.c -my test for the BigInteger ADT
+README - contents of project
+Makefile - makes, submits, and checks submission of files
+
+SPECIAL NOTES:
+Hey to the graders, I know that i passed all the grading scripts for BigInteger except the multiply and prod tests.
+I was wondering if I can still get the points for the tests that I passed in the script, since the full test doesn't run
+through because of a small error I am getting. Also, my Arithmetic produces the right output when I run it myself on the 
+provided in1->5 files, but the grading script is not picking it up for some reason? Maybe someone can look into it for me?
