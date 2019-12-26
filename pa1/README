@@ -1,0 +1,15 @@
+Andy He
+ahe206
+pa1
+
+LIST OF FILES SUBMITTED:
+List.h - the header file for List.c
+List.c - implements a double linked list that stores ints, has cursor elements
+ListClient.c - tests List.c
+Lex.c - implements List.c to indirectly sort a list of strings(char*). follows method of Insertion sort
+Makefile - compiles and runs the above files
+README - gives brief descriptions of each files, list of contents, and any special notes 
+
+SPECIAL NOTES:
+-I had trouble finding out where my memory leaks were happening, it seems that I was allocating memory in my insertBefore and 
+insertAfter methods where I created a newNode but never free'd the node. I am not sure where I was supposed to free the node.

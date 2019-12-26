@@ -1,0 +1,14 @@
+Andy He
+ahe206
+pa2
+
+LIST OF FILES SUBMITTED
+Sparse.c - Implements the Matrix ADT and performs matrix operations on an input file  
+Matrix.c - Implements a Matrix ADT that can perform matrix operations
+Matrix.h - Creates the header file for Matrix.c
+MatrixTest.c - Tests the Matrix Test sufficiently 
+List.c   - Same as pa1's List.c, but takes in generics by taking advantage of c's 'void*'
+List.h   - Creates the header file for List.h
+ListTest.c - Tests the new List.c sufficiently
+Makefile - compiles, submits, checks submission, and checks memory leaks for the above files listed
+README   - contains the list of files to be submitted
